@@ -54,7 +54,7 @@ Sou daquele que resolve os bugs, dá aquela respirada funda, manda um commit com
 Quer trocar uma ideia, falar de projeto ou só bater um papo sobre dev?
 
 - 📧 Email: fernandohaeser@gmail.com
-- 🧑‍💻 LinkedIn: [linkedin.com/in/fernandohaeser](https://linkedin.com/in/fernandohaeser)
+- 🧑‍💻 LinkedIn: [linkedin.com/in/fehaeser](https://linkedin.com/in/fehaeser)
 
 ---
 
