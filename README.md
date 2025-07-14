@@ -1,6 +1,6 @@
-# 👋 Fala aí, eu sou o Mano Fefe!
+# 👋 Fala aí, eu sou o Fernando!
 
-💻 Programador em formação | 🎓 Ciência da Computação - UniRitter  
+💻 Programador em formação | 🎓 Ciência da Computação - UniRitter | 🎓 Sistemas para Internet - IFRS
 🚀 Apaixonado por desenvolvimento de sistemas, web e boas práticas de modelagem  
 💬 Gosto de conversar sobre Java, Git, software bem estruturado e boas ideias!
 
