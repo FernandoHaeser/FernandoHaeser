@@ -1,5 +1,9 @@
 # 👋 Fala aí, eu sou o Fernando!
 
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="240" height="720" alt="animated hello">
+
+#
+
 💻 Programador em formação | 🎓 Ciência da Computação - UniRitter | 🎓 Sistemas para Internet - IFRS
 - 🚀 Apaixonado por desenvolvimento de sistemas, web e boas práticas de modelagem  
 - 💬 Gosto de conversar sobre Java, Git, software bem estruturado e boas ideias!
