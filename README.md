@@ -1,4 +1,4 @@
-## 👨‍💻 Opa, eu sou o Fernando!
+# 👨‍💻 Opa, eu sou o Fernando!
 
 🎓 Estudante de Sistemas para Internet – IFRS  
 📔 Cursou 1 semestre de Ciência da Computação - UniRitter  
@@ -54,8 +54,10 @@ Sempre priorizo escrever código limpo, com propósito, lógica bem feita e boas
 ### 📫 Contatos
 
 - ✉️ fernandohaeserr@gmail.com
-- 💼 [LinkedIn](www.linkedin.com/in/fehaeser)  
-- 🧠 [GitHub](https://github.com/FernandoHaeser)  
+
+<a href="www.linkedin.com/in/fehaeser"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="130" alt="linkedin"></a> 
+<a href="https://www.instagram.com/fernaandooy/"><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="130" alt="instagram"></a> 
+<a href="https://github.com/FernandoHaeser"><img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="130" alt="github"></a> 
 
 ---
 
@@ -63,6 +65,6 @@ Sempre priorizo escrever código limpo, com propósito, lógica bem feita e boas
 
 ---
 
-### ⭐ Obrigado por passar aqui no meu perfil!
+###  <a href=""><img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="30" alt="gatito"></a> Obrigado por passar aqui no meu perfil!
 
 Se curtir algum projeto, dá uma ⭐ e bora conectar!  
