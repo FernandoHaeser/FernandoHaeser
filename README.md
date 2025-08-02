@@ -1,68 +1,63 @@
-# 👋 Fala aí, eu sou o Fernando!
+## 👨‍💻 Opa, eu sou o Fernando!
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="240" height="720" alt="animated hello">
-
-#
-
-💻 Programador em formação | 🎓 Ciência da Computação - UniRitter | 🎓 Sistemas para Internet - IFRS
-- 🚀 Apaixonado por desenvolvimento de sistemas, web e boas práticas de modelagem  
-- 💬 Gosto de conversar sobre Java, Git, software bem estruturado e boas ideias!
+🎓 Estudante de Sistemas para Internet – IFRS  
+📔 Cursou 1 semestre de Ciência da Computação - UniRitter  
 
 ---
 
-### 🧠 Sobre mim
+## 🧠 Sobre mim
 
-Desde pequeno sou ligado em tecnologia. Hoje tô trilhando minha jornada como desenvolvedor, unindo a teoria da faculdade com projetos práticos que me desafiam a crescer.  
-Atualmente, estudo **Java, Git, modelagem de software, redes, SO e sistemas distribuídos** — sempre buscando dominar o ecossistema do desenvolvimento.
+Desde pequeno sou apaixonado pela tecnologia, adorava entender o funcionamento da máquina, resolver problemas, ajudar meus amigos e etc. Hoje, cursando e trabalhando na área, estou trilhando minha jornada como desenvolvedor, unindo a teoria da faculdade com projetos práticos que me desafiam a crescer.
 
-Curto escrever código limpo, com propósito e lógica bem feita. E não tenho medo de meter a mão na massa pra aprender o que for preciso.
+Já tive estudos de lógica da programação em **Java**, **POO**, **Engenharia de Software** e **Banco de dados relacional**.
 
----
+Atualmente, estudo no **IFRS-POA** em **Sistemas para Internet**, onde estou reforçando a lógica da programação e aprendendo coisas novas, sendo elas
+- Desenvolvimento Web
+- Linguagem C
 
-### 🛠️ Tecnologias e ferramentas que tô dominando
+Também estou estagiando em **Redes** no momento, onde aprendi muito, como definição de protocolos (TCP, UDP, SNMP, ICMP, ...), **IPv4/IPv6**, **DNS** e administração de servidores **Linux**.
 
-- 💻 **Java** (POO, Swing, estrutura de sistemas)
-- 🔧 **Git & GitHub** (versionamento raiz)
-- 🧱 **Modelagem UML**, diagramas e organização de sistemas
-- 🌐 **HTML | CSS | JS** (no ritmo)
-- ☕ **Eclipse IDE**, VSCode, CMD, Terminal
-- 🐧 Linux e comandos de rede (ping, ifconfig, traceroute, etc.)
+Sempre priorizo escrever código limpo, com propósito, lógica bem feita e boas práticas. E não tenho medo de meter a mão na massa pra aprender o que for preciso.
 
 ---
 
-### 📈 Em aprendizado contínuo
+### 🛠️ Tecnologias e ferramentas
 
-- 🧠 Inteligência Artificial (curtindo estudar por fora)
-- 🧰 Docker, APIs REST, Banco de Dados SQL
-- 🔐 Segurança e versionamento de código
-- 🌱 Metodologias ágeis e organização de projetos
-
----
-
-### 📚 Projetos em destaque
-
-> ⚙️ Em breve, mais projetos pessoais e acadêmicos por aqui!  
-> Estou trabalhando em sistemas de cadastro, controle e visualização com Java puro + Swing.
+- ☕ **Java** 
+- 🔧 **Git & GitHub** 
+- ✏️ **Modelagem UML**
+- 💻 **HTML | CSS | JS**
+- 🐧 **Linux**
+- 🛜 **Redes & Computadores**
+- 🌐 **Eclipse, IntelliJ, PyCharm, NetBeans, VSCode**
+- 🔨 **Scrum, Kanban, XP**
 
 ---
 
-### 💬 Vibe dev raiz
+### 📚 Em aprendizado
 
-Gosto de ser direto, aprender rápido e compartilhar o que sei.  
-Sou daquele que resolve os bugs, dá aquela respirada funda, manda um commit com orgulho e pensa: **"Tu é pica, irmão"** 😂
-
+- SQL em geral
+- Scripts de automação em Python e ShellScript
+- Certificação CCNA
+  
 ---
 
-### 📫 Contato
+### 💼 Projetos em destaque
 
-Quer trocar uma ideia, falar de projeto ou só bater um papo sobre dev?
+| Projeto              | Descrição                                      | Link                |
+|---------------------|------------------------------------------------|---------------------------------------------------------------------------------------|
+| **Sistema Único de Vacinação** | Sistema feito com a library Swing do Java, orientado a objeto. Projeto acadêmico | [🔗 Acessar](https://github.com/FernandoHaeser/SVS-System)                     |
 
-- 📧 Email: fernandohaeserr@gmail.com
-- 🧑‍💻 LinkedIn: [linkedin.com/in/fehaeser](https://linkedin.com/in/fehaeser)
-
+- ⚠️ Pelo projeto rodar diretamente pela **IDE**, é necessário baixar o repositório e rodar localmente para visualizar!
 ---
 
-### 💡 Frase que me guia
+### 📫 Contatos
+
+- ✉️ fernandohaeserr@gmail.com
+- 💼 [LinkedIn](www.linkedin.com/in/fehaeser)  
+- 🧠 [GitHub](https://github.com/FernandoHaeser)  
+
+---
 
 > “Cada linha de código é um passo na direção do futuro que eu quero construir.”  
 
@@ -71,4 +66,3 @@ Quer trocar uma ideia, falar de projeto ou só bater um papo sobre dev?
 ### ⭐ Obrigado por passar aqui no meu perfil!
 
 Se curtir algum projeto, dá uma ⭐ e bora conectar!  
-Tamo junto nessa jornada dev 🚀👨‍💻
