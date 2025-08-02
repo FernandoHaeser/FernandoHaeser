@@ -5,6 +5,14 @@
 
 ---
 
+<div>
+<a href="https://github.com/MorganaPithan">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=FernandoHaeser&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoHaeser&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+---
+
 ## 🧠 Sobre mim
 
 Desde pequeno sou apaixonado pela tecnologia, adorava entender o funcionamento da máquina, resolver problemas, ajudar meus amigos e etc. Hoje, cursando e trabalhando na área, estou trilhando minha jornada como desenvolvedor, unindo a teoria da faculdade com projetos práticos que me desafiam a crescer.
@@ -36,7 +44,8 @@ Sempre priorizo escrever código limpo, com propósito, lógica bem feita e boas
 
 ### 📚 Em aprendizado
 
-- SQL em geral
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"  width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" />
+
 - Scripts de automação em Python e ShellScript
 - Certificação CCNA
   
