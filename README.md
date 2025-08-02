@@ -55,7 +55,7 @@ Sempre priorizo escrever código limpo, com propósito, lógica bem feita e boas
 
 - ✉️ fernandohaeserr@gmail.com
 
-<a href="www.linkedin.com/in/fehaeser"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="130" alt="linkedin"></a> 
+<a href="https://www.linkedin.com/in/fehaeser"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="130" alt="linkedin"></a> 
 <a href="https://www.instagram.com/fernaandooy/"><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="130" alt="instagram"></a> 
 <a href="https://github.com/FernandoHaeser"><img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="130" alt="github"></a> 
 
