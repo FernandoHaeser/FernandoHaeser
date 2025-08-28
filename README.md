@@ -56,6 +56,7 @@ Sempre priorizo escrever código limpo, com propósito, lógica bem feita e boas
 | Projeto              | Descrição                                      | Link                |
 |---------------------|------------------------------------------------|---------------------------------------------------------------------------------------|
 | **Sistema Único de Vacinação** | Sistema feito com a library Swing do Java, orientado a objeto. Projeto acadêmico | [🔗 Acessar](https://github.com/FernandoHaeser/SVS-System)                     |
+| **Calculadora de Combinações e Storage** | Projeto WEB para a empresa CDN Systems. Serve para calcular **estimativa** de storage de uma câmera em um servidor NUV | [🔗 Acessar](https://github.com/FernandoHaeser/nuv-calculator-web)                     |
 
 - ⚠️ Pelo projeto rodar diretamente pela **IDE**, é necessário baixar o repositório e rodar localmente para visualizar!
 ---
