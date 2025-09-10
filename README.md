@@ -50,7 +50,7 @@ Sempre busco escrever **código limpo, bem estruturado e de fácil manutenção*
 | Projeto                                  | Descrição                                                                                                              | Link                                                               |
 | ---------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
 | **Sistema Único de Vacinação**           | Sistema feito com a library Swing do Java, orientado a objeto. Projeto acadêmico                                       | [🔗 Acessar](https://github.com/FernandoHaeser/SVS-System)         |
-| **Calculadora de Combinações e Storage** | Projeto WEB para a empresa CDN Systems. Serve para calcular **estimativa** de storage de uma câmera em um servidor NUV | [🔗 Acessar](https://github.com/FernandoHaeser/nuv-calculator-web) |
+| **Calculadora de Combinações e Storage** | Projeto WEB para a empresa CDN Systems. Serve para calcular **estimativa** de storage de uma câmera em um servidor NUV | [🔗 Acessar](https://github.com/FernandoHaeser/nuv-calculator) |
 
 ---
 
