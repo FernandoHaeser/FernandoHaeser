@@ -1,7 +1,7 @@
-# 👨‍💻 Opa, eu sou o Fernando!
+# 👨‍💻 Hey, I'm Fernando!
 
-💻 Desenvolvedor Júnior
-🎓 Estudante de **Sistemas para Internet – IFRS**
+💻 Junior Developer  
+🎓 Student of **Internet Systems – IFRS**
 
 ---
 
@@ -13,25 +13,25 @@
 
 ---
 
-## 🧠 Sobre mim
+## 🧠 About Me
 
-Sou apaixonado por tecnologia desde pequeno e hoje estou consolidando minha carreira como **Desenvolvedor Júnior**.
-Tenho experiência com **Java, Programação Orientada a Objetos, Banco de Dados Relacionais e Engenharia de Software**.
+I've been passionate about technology since I was a child and am now building my career as a **Junior Developer**.  
+I have experience with **Java, Object-Oriented Programming, Relational Databases, and Software Engineering**.
 
-Atualmente, me aprofundo em:
+Currently, I am deepening my knowledge in:
 
-* **C** – reforçando lógica e fundamentos de programação
-* **Desenvolvimento Web** (HTML, CSS, JavaScript, integração com back-end)
-* **Python** – scripts, automação e desenvolvimento de aplicações
-* **Java** – projetos orientados a objeto e aplicações desktop
+* **C** – strengthening programming logic and fundamentals
+* **Web Development** (HTML, CSS, JavaScript, backend integration)
+* **Python** – scripts, automation, and application development
+* **Java** – object-oriented projects and desktop applications
 
-Também tenho background em **Redes de Computadores**, atuando com protocolos (TCP, UDP, SNMP, ICMP), **IPv4/IPv6**, **DNS** e servidores **Linux**.
+I also have a background in **Computer Networks**, working with protocols (TCP, UDP, SNMP, ICMP), **IPv4/IPv6**, **DNS**, and **Linux** servers.
 
-Sempre busco escrever **código limpo, bem estruturado e de fácil manutenção**, com boas práticas e propósito.
+I always strive to write **clean, well-structured, and maintainable code**, following best practices and with clear purpose.
 
 ---
 
-### 🛠️ Tecnologias e ferramentas
+### 🛠️ Technologies & Tools
 
 * ☕ **Java**
 * 🐍 **Python**
@@ -39,23 +39,23 @@ Sempre busco escrever **código limpo, bem estruturado e de fácil manutenção*
 * 🌐 **HTML | CSS | JS**
 * 🐧 **Linux**
 * 🔧 **Git & GitHub**
-* 🛜 **Redes de Computadores**
-* ✏️ **Modelagem UML**
+* 🛜 **Computer Networks**
+* ✏️ **UML Modeling**
 * 🔨 **Scrum, Kanban, XP**
-  
+
 ---
 
-### 💼 Projetos em destaque
+### 💼 Featured Projects
 
-| Projeto                                  | Descrição                                                                                                              | Link                                                               |
-| ---------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
-| **Sistema Único de Vacinação**           | Sistema feito com a library Swing do Java, orientado a objeto. Projeto acadêmico                                       | [🔗 Acessar](https://github.com/FernandoHaeser/SVS-System)         |
-| **Calculadora de Combinações e Storage** | Projeto WEB para a empresa CDN Systems. Serve para calcular **estimativa** de storage de uma câmera em um servidor NUV | [🔗 Acessar](https://github.com/FernandoHaeser/nuv-calculator) |
+| Project                                    | Description                                                                                                                  | Link                                                               |
+| ------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| **Single Vaccination System**              | System built with Java Swing library, object-oriented. Academic project                                                      | [🔗 Access](https://github.com/FernandoHaeser/SVS-System)          |
+| **Combinations Calculator & Storage**      | Web project for CDN Systems. Estimates storage for a camera on an NUV server                                                 | [🔗 Access](https://github.com/FernandoHaeser/nuv-calculator)      |
 
 ---
 
 <div align="center">
-  <h3>📫 Conecte-se comigo</h3>
+  <h3>📫 Connect with me</h3>
 
   <a href="mailto:fernandohaeserr@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="40">
@@ -79,11 +79,11 @@ Sempre busco escrever **código limpo, bem estruturado e de fácil manutenção*
 
 ---
 
-> “Cada linha de código é um passo na direção do futuro que eu quero construir.”
+> "Every line of code is a step towards the future I want to build."
 
 ---
 <div align=center>
-<h3><a href=""><img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="30" alt="gatito"></a> Obrigado por visitar meu perfil!</h3>
+<h3><a href=""><img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="30" alt="cat"></a> Thank you for visiting my profile!</h3>
 
-Se curtir algum projeto, dá uma ⭐ e bora conectar!
+If you like any project, leave a ⭐ and let's connect!
 </div>
