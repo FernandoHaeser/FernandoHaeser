@@ -1,6 +1,6 @@
 # 👨‍💻 Hey, I'm Fernando!
 
-💻 Junior Developer  
+💻 Jr. Developer  
 🎓 Student of **Internet Systems – IFRS**
 
 ---
