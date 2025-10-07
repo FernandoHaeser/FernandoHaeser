@@ -1,89 +1,79 @@
-# 👨‍💻 Hey, I'm Fernando!
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=722f37"/>
 
-💻 Jr. Developer  
-🎓 Student of **Internet Systems – IFRS**
-
----
+<br>
 
 <div align="center">
-<a href="https://github.com/FernandoHaeser">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=FernandoHaeser&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoHaeser&layout=compact&langs_count=7&theme=dark"/>
+  <samp>
+      <br>
+      Hi there! I'm <b>Fernando Haeser</b>
+  </samp>
 </div>
 
----
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=722f37&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Internet++Systems+Development;I'm+Junior+Software+Developer" alt="Typing SVG"/>
+</div>
 
-## 🧠 About Me
+<br>
 
-I've been passionate about technology since I was a child and am now building my career as a **Junior Developer**.  
-I have experience with **Java, Object-Oriented Programming, Relational Databases, and Software Engineering**.
+<br>
+<br>
+      
+<div align="center">
+  <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=FernandoHaeser&show_icons=true&count_private=true&rank_icon=github&theme=dark&font=Iosevka"/>
+  <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoHaeser&layout=compact&font=Iosevka&langs_count=16&theme=dark"/>
+  <br>
+  <br>
+  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FernandoHaeser&theme=dark"/>
+</div>
 
-Currently, I am deepening my knowledge in:
+<div align="center" style="display: inline_block"><br>
+  
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+  
+</div>
 
-* **C** – strengthening programming logic and fundamentals
-* **Web Development** (HTML, CSS, JavaScript, backend integration)
-* **Python** – scripts, automation, and application development
-* **Java** – object-oriented projects and desktop applications
+<br>
+<br>
 
-I also have a background in **Computer Networks**, working with protocols (TCP, UDP, SNMP, ICMP), **IPv4/IPv6**, **DNS**, and **Linux** servers.
+<details align="center">  
+  <summary>
+      <samp>
+        <b>More Info</b>
+      </samp>
+  </summary>
+  
+<br>
 
-I always strive to write **clean, well-structured, and maintainable code**, following best practices and with clear purpose.
+##
 
----
-
-### 🛠️ Technologies & Tools
-
-* ☕ **Java**
-* 🐍 **Python**
-* 💻 **C**
-* 🌐 **HTML | CSS | JS**
-* 🐧 **Linux**
-* 🔧 **Git & GitHub**
-* 🛜 **Computer Networks**
-* ✏️ **UML Modeling**
-* 🔨 **Scrum, Kanban, XP**
-
----
-
-### 💼 Featured Projects
-
-| Project                                    | Description                                                                                                                  | Link                                                               |
-| ------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
-| **Single Vaccination System**              | System built with Java Swing library, object-oriented. Academic project                                                      | [🔗 Access](https://github.com/FernandoHaeser/SVS-System)          |
-| **Combinations Calculator & Storage**      | Web project for CDN Systems. Estimates storage for a camera on an NUV server                                                 | [🔗 Access](https://github.com/FernandoHaeser/nuv-calculator)      |
-
----
+<br>
 
 <div align="center">
-  <h3>📫 Connect with me</h3>
+  <samp>
+    <b>
+      Contact me:
+    </b>
+  </samp>
+  <br>
+  <br>
 
-  <a href="mailto:fernandohaeserr@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="40">
-  </a>
-  ‎ ‎ ‎ ‎ ‎ ‎
-
-  <a href="https://www.linkedin.com/in/fehaeser">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40">
-  </a>
-  ‎ ‎ ‎ ‎ ‎ ‎
-
-  <a href="https://www.instagram.com/devhaeser/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="40">
-  </a>
-  ‎ ‎ ‎ ‎ ‎ ‎
-
-  <a href="https://x.com/devhaeser">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" height="40">
-  </a>
-</div>  
-
----
-
-> "Every line of code is a step towards the future I want to build."
-
----
-<div align=center>
-<h3><a href=""><img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="30" alt="cat"></a> Thank you for visiting my profile!</h3>
-
-If you like any project, leave a ⭐ and let's connect!
+  [![Gmail](https://img.shields.io/badge/Gmail-722f37?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:fernandohaeserr@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-722f37?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/devhaeser/?next=%2F)
+  [![Discord](https://img.shields.io/badge/Discord-722f37?style=for-the-badge&logo=Discord&logoColor=fff)](https://discord.gg/fefedaplay)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-722f37?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/fehaeser/)
+  
 </div>
+
+</details>
+
+##
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=722f37&height=100&section=footer"/>
