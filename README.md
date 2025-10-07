@@ -19,7 +19,7 @@
 <br>
       
 <div align="center">
-  <img height=800 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=FernandoHaeser&show_icons=true&count_private=true&rank_icon=github&theme=dark&font=Iosevka"/><br>
+  <img height=800 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=FernandoHaeser&show_icons=true&count_private=true&rank_icon=github&theme=dark&font=Iosevka"/>
   <img height=300 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoHaeser&layout=compact&font=Iosevka&langs_count=16&theme=dark"/>
   <br>
   <br>
