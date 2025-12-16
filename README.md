@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=722f37"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FFFFFF"/>
 
 <br>
 
@@ -10,7 +10,7 @@
 </div>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=722f37&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Internet++Systems+Development;I'm+a+Junior+Software+Developer" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=FFFFFF&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Internet++Systems+Development;I'm+a+Junior+Software+Developer" alt="Typing SVG"/>
 </div>
 
 <br>
@@ -73,4 +73,4 @@
 
 ##
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=722f37&height=100&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=100&section=footer"/>
