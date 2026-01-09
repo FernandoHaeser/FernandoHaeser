@@ -63,7 +63,7 @@
   <br>
 
   [![Gmail](https://img.shields.io/badge/Gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=000)](mailto:fernandohaeserr@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-FFFFFF?style=for-the-badge&logo=instagram&logoColor=000)](https://www.instagram.com/devhaeser/?next=%2F)
+  <!--[![Instagram](https://img.shields.io/badge/Instagram-FFFFFF?style=for-the-badge&logo=instagram&logoColor=000)](https://www.instagram.com/devhaeser/?next=%2F) -->
   [![Discord](https://img.shields.io/badge/Discord-FFFFFF?style=for-the-badge&logo=Discord&logoColor=000)](https://discord.gg/fefedaplay)
   [![Linkedin](https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=000)](https://www.linkedin.com/in/fehaeser/)
   
