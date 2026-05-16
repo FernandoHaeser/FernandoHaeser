@@ -28,7 +28,7 @@
   <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FernandoHaeser&theme=dark"/>
 </div>
 
-<div align="center">
+<!-- <div align="center">
 
 ### Languages
 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
@@ -57,7 +57,7 @@
 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
 
-</div>
+</div> -->
 
 <br>
 <br>
