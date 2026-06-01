@@ -12,11 +12,6 @@
 <div align="center" width="100%">
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=FFFFFF&width=900&size=22&center=true&lines=I'm+from+Brazil;I'm+a+student+of+Internet++Systems+Development;I'm+a+Software+Developer" alt="Typing SVG"/>
 </div>
-
-<br>
-
-<br>
-<br>
       
 <div align="center">
   <!--
@@ -25,8 +20,6 @@
   <br>
   <br>
   -->
-  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FernandoHaeser&theme=dark"/>
-</div>
 
 <!-- <div align="center">
 
@@ -94,5 +87,10 @@
 </details>
 
 ##
+
+<div align="center">
+  <h3>Progress</h3>
+    <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FernandoHaeser&theme=dark"/>
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=100&section=footer"/>
