@@ -11,52 +11,10 @@
 <br>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=FFFFFF&width=900&size=22&center=true&lines=I'm+from+Brazil+🇧🇷;I'm+a+student+of+Internet+Systems+Development;I'm+a+Software+Developer;Always+learning+something+new" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Iosevka&color=FFFFFF&width=900&size=22&center=true&lines=I%27m+from+Brazil+%F0%9F%87%A7%F0%9F%87%B7;I%27m+a+student+of+Internet+Systems+Development;I%27m+a+Software+Developer;Always+learning+something+new" alt="Typing SVG"/>
 </div>
 
 <br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=FernandoHaeser&style=for-the-badge&color=white&label=PROFILE+VIEWS&labelColor=000000"/>
-</div>
-
-##
-
-<div align="center">
-
-### Languages
-<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python"/>
-<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java"/>
-<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" title="Kotlin"/>
-<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript"/>
-<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="TypeScript"/>
-
-<br><br>
-
-### Frontend & Mobile
-<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React"/>
-<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" title="Flutter"/>
-<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML5"/>
-<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS3"/>
-
-<br><br>
-
-### Backend & Databases
-<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" title="Node.js"/>
-<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" title="SQLite"/>
-<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" title="MySQL"/>
-<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="PostgreSQL"/>
-
-<br><br>
-
-### DevOps & Tools
-<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" title="Docker"/>
-<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git"/>
-<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" title="Linux"/>
-<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" title="Bash"/>
-<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="VS Code"/>
-
-</div>
 
 ##
 
@@ -72,7 +30,7 @@
 
 <br><br>
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=FernandoHaeser&theme=onedark&no-frame=true&margin-w=10&margin-h=10&column=7"/>
+<img width="100%" src="https://github-profile-trophy-bay-seven.vercel.app/?username=FernandoHaeser&theme=onedark&no-frame=true&margin-w=10&margin-h=10&column=7"/>
 
 </div>
 
@@ -115,6 +73,10 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=000)](https://www.linkedin.com/in/fehaeser/)
   [![Instagram](https://img.shields.io/badge/Instagram-FFFFFF?style=for-the-badge&logo=instagram&logoColor=000)](https://www.instagram.com/devhaeser/?next=%2F)
 
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=FernandoHaeser&style=for-the-badge&color=000000&label=PROFILE+VIEWS&labelColor=000000"/>
 </div>
 
 <br>
