@@ -89,7 +89,7 @@
 ##
 
 <div align="center">
-  <h3>Progress</h3>
+  <!-- <h3>Progress</h3> -->
     <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FernandoHaeser&theme=dark"/>
 </div>
 
