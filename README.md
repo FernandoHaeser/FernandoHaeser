@@ -19,6 +19,10 @@
 ##
 
 <div align="center">
+  <img src="https://github-general-status.vercel.app/api/svg" alt="FernandoHaeser GitHub Stats" />
+</div>
+
+<!-- <div align="center">
 
 <img height="180" src="https://githubstats-woad-five.vercel.app/api?username=FernandoHaeser&show_icons=true&count_private=true&rank_icon=github&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=ffffff"/>
 &nbsp;
@@ -58,7 +62,7 @@
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FernandoHaeser&theme=github_dark"/>
 
-</div>
+</div> -->
 
 ##
 
