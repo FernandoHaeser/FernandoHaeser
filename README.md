@@ -16,11 +16,9 @@
 
 <br>
 
-##
-
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-general-status.vercel.app/api/svg" alt="FernandoHaeser GitHub Stats" />
-</div>
+</div> -->
 
 <!-- <div align="center">
 
