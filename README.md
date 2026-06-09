@@ -16,6 +16,15 @@
 
 <br>
 
+##
+
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=FernandoHaeser&theme=github-dark&hide_border=true&area=true"/>
+
+</div>
+
 <!-- <div align="center">
   <img src="https://github-general-status.vercel.app/api/svg" alt="FernandoHaeser GitHub Stats" />
 </div> -->
@@ -37,12 +46,6 @@
 </div>
 
 ##
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=FernandoHaeser&theme=github-dark&hide_border=true&area=true"/>
-
-</div>
 
 ##
 
