@@ -21,6 +21,7 @@
 
 <div align="center">
 
+<img width="100%" src="https://gh-heat.anishroy.com/api/FernandoHaeser/svg?theme=green&darkMode=true"/>
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=FernandoHaeser&theme=high-contrast&hide_border=true&area=true"/>
 
 </div>
