@@ -20,10 +20,10 @@
 
 
 <div align="center">
-<a href="https://github.com/FernandoHaeser">
-  <img width="100%" src="https://gh-heat.anishroy.com/api/FernandoHaeser/svg?theme=green&darkMode=true"/>
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=FernandoHaeser&theme=high-    contrast&hide_border=true&area=true"/>
-</a>
+
+<img width="100%" src="https://gh-heat.anishroy.com/api/FernandoHaeser/svg?theme=green&darkMode=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=FernandoHaeser&theme=high-contrast&hide_border=true&area=true"/>
+
 </div>
 
 <!-- <div align="center">
